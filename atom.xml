@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://4cheng.github.io</id>
+    <title>4cheng&apos;s Blog</title>
+    <updated>2021-01-04T05:08:32.575Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://4cheng.github.io"/>
+    <link rel="self" href="https://4cheng.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://4cheng.github.io/images/avatar.png</logo>
+    <icon>https://4cheng.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 4cheng&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[站在2021的第一个月--2021的期望]]></title>
+        <id>https://4cheng.github.io/post/zhan-zai-2021-de-di-yi-ge-yue-2021-de-qi-wang/</id>
+        <link href="https://4cheng.github.io/post/zhan-zai-2021-de-di-yi-ge-yue-2021-de-qi-wang/">
+        </link>
+        <updated>2021-01-03T15:02:39.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://4cheng.github.io/post-images/1609686624885.jpg" alt="" loading="lazy"><br>
+2021，对于我来说注定是不平凡的一年，在这一年里，我要完成毕业条件（不管是论文也好还是专利或者是软著），敲定工作。<br>
+万事预则立，首先还是先把flag立起来😊</p>
+<ol>
+<li>下学期开学前，完成一篇专利</li>
+<li>工作期间，每天至少AC两道LeetCode</li>
+<li>看完侯捷视频</li>
+<li>学习C++网络编程，为面试做准备</li>
+<li>每周看3-4篇论文</li>
+<li>多看书，多输出，减少刷手机的时间。</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020年总结]]></title>
+        <id>https://4cheng.github.io/post/2020-nian-zong-jie/</id>
+        <link href="https://4cheng.github.io/post/2020-nian-zong-jie/">
+        </link>
+        <updated>2021-01-03T14:31:02.000Z</updated>
+        <content type="html"><![CDATA[<p>2020，不平凡的一年。这一年，因为疫情这个黑天鹅事件，导致了生活学习和工作上的节奏都被打断，将自己本来不多的上学之路又从中截断，第一次在家上网课，第一次远程考试；从民航研究院换到现在的产品部。现在回过头再去看这一年所发生的事情，也只留下一句感叹，逝者如斯，不舍昼夜。</p>
+<p>一月--春节前夕一月二十三日前：<br>
+这期间我在民航研究院实习，将自己研一上学期所看的知识图谱相关的东西总结成了一个专利交给韩老师；放假前夕韩老师让我了解智能空管相关的论文。</p>
+<p>春节--六月二号回公司：<br>
+春节期间新冠疫情在国内爆发，放假时间也从原来的13天无限期延长，到后来学校通知上网课，于是就一直宅家家里。这期间一直在学习和处理cat062标准的雷达数据解码，从雷达数据中提取出飞行器的飞行信息。</p>
+<p>六月-九月：<br>
+回到公司，因为疫情的关系，公司的组织结构有了较大的调整，我们实习生都统一做了重新分配。我分配到了7楼原三维二部，跟着赵哥开始接触python后端，后来因为前端缺人，我又转到前端方向，学习Vue框架和ES6的相关知识。这期间完成了一个对平板配置文件修改的前端页面，并将最初用原生的Vue写的页面迭代为用element-vue框架修改而来的前端页面。</p>
+<p>九月-十二月：<br>
+九月开学之后，我和万天鹏、张婷一起被安排到罗哥的小组，开始接触平板的SDK封装相关的工作，而我因为之前没有使用过C++，所以没有安排我封装SDK，而是让我做一个调用SDK的综合控制平台，主要的目的是用于平板的出厂检测，用于测试平板的软硬件工作是否正常。这期间看了两本c++相关的书籍：<br>
+1. c++ primer<br>
+2. effective c++<br>
+以及清华大学的c++入门视频和侯捷老师的c++面向对象编程视频。在工作期间，为帮助同事解决linux平板的服务配置问题，入门一些shell编程。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://4cheng.github.io/post/hello-gridea/</id>
+        <link href="https://4cheng.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
